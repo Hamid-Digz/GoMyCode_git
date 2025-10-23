@@ -1,0 +1,2 @@
+"This is my third file" 
+here is my first git init 
